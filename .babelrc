@@ -1,0 +1,10 @@
+// 使用babel来让jsx运行vue
+
+{
+    "presets": [
+        "env"
+    ],
+    "plugins": [
+        "transform-vue-jsx"
+    ]
+}
